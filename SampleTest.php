@@ -17,3 +17,4 @@ class SampleTest extends PHPUnit_Framework_TestCase
         $this->assertEquals($Sample->helloWorld(), 'aaaaa');
     }
 }
+?>
