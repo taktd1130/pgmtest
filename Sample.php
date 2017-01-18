@@ -6,4 +6,4 @@ class Sample
         return 'hello world!';
     }
 }
-
+?>
